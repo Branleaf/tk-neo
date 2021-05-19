@@ -91,7 +91,7 @@ def update_length(new_leng):
 # main window
 main = tkinter.Tk()
 
-main.wm_title("Test")
+main.wm_title("Tk Neo")
 main.wm_resizable(False, False)
 main.wm_minsize(1280,720)
 main.wm_maxsize(1280,720)
